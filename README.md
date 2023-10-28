@@ -1,5 +1,7 @@
 # Virtual-Drum-Kit
 Welcome to the **Virtual Drum-Kit** GitHub repository! This web-based music game allows you to play the drums using your mouse or keyboard. You can create your own drumming beats and have fun making music. This README will guide you through the project and explain how to get started.
+
+![Virtual drum kit](/images/Drum_kit.jpg)
 # Table of Contents
 - [Demo](#Demo)
 - [Features](#features)
